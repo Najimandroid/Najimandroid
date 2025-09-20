@@ -31,6 +31,20 @@ I'm curious and always trying out new ideas 🎮
 [![Naji's Towers of Craziness - My JToH-like game! [Quick Showcase]](https://ytcards.demolab.com/?id=lsz6NSc3IR8&title=Naji's+Towers+of+Craziness+-+My+JToH-like+game!+[Quick+Showcase]&lang=en&timestamp=1712181600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=872 "Naji's Towers of Craziness - My JToH-like game! [Quick Showcase]")](https://www.youtube.com/watch?v=lsz6NSc3IR8)
 <!-- END YOUTUBE-CARDS -->
 
+---
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Najimandroid&theme=github_dark&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Najimandroid&theme=default&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najimandroid&layout=compact" />
+</picture>
+
 <!--
 **Najimandroid/Najimandroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
