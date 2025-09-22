@@ -15,7 +15,7 @@ You can even try some of them out on my itch.io page or see videos on my YouTube
 
 ## ☎️ Contact Me
 
-📬 Gmail: najim.bakkali2006@gmail.com • 📱 Discord: najimandroid
+📬 Gmail: najim.bakkali2006@gmail.com • 📱 Discord: @najimandroid
 
 ---
 
