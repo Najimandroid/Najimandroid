@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D65A31,100:F2994A&height=250&section=header&text=Najimandroid&fontSize=60&fontAlignY=40&fontColor=ffffff&animation=fadeIn)
 
 Hi! I'm Najim 👋  
-I'm a computer science student who loves making games.  
-I usually work with C++ and C#, from small experiments to bigger prototypes.  
-I'm curious and always trying out new ideas 🎮  
+I'm a computer science student passionate about game development.  
+In my free time, I love creating games in C++ and C#, from little prototypes to bigger projects!
+You can even try some of them out on my itch.io page or see videos on my YouTube channel!
 
 #
 
