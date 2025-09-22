@@ -1,9 +1,21 @@
-# 💻 Najimandroid
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D65A31,100:F2994A&height=250&section=header&text=Najimandroid&fontSize=60&fontAlignY=40&fontColor=ffffff&animation=fadeIn)
 
 Hi! I'm Najim 👋  
 I'm a computer science student who loves making games.  
 I usually work with C++ and C#, from small experiments to bigger prototypes.  
 I'm curious and always trying out new ideas 🎮  
+
+#
+
+## 📣 My Links
+
+🕹️ [itch.io](https://najimandroid.itch.io/) • 🎥 [YouTube](https://www.youtube.com/@najimandroid) • 💼 [LinkedIn](https://www.linkedin.com/in/najim-bakkali-4350b0293/)
+
+#
+
+## ☎️ Contact Me
+
+📬 Gmail: najim.bakkali2006@gmail.com • 📱 Discord: najimandroid
 
 ---
 
@@ -21,6 +33,49 @@ I'm curious and always trying out new ideas 🎮
 
 #
 
+## 👨‍💻 Featured Projects
+
+<table>
+  <tr>
+    <th>My Latest Project</th>
+    <th>My Ongoing Project</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Najimandroid/Template_SFML" target="BLANK">
+        <picture>
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=Najimandroid&repo=Template_SFML&theme=github_dark"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=Najimandroid&repo=Template_SFML&theme=default"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Najimandroid&repo=Template_SFML"/>
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Najimandroid/Fish_Fighters" target="BLANK">
+        <picture>
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=Najimandroid&repo=Fish_Fighters&theme=github_dark"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=Najimandroid&repo=Fish_Fighters&theme=default"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Najimandroid&repo=Fish_Fighters"/>
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+#
+
 ## 📺 Featured YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -32,6 +87,20 @@ I'm curious and always trying out new ideas 🎮
 <!-- END YOUTUBE-CARDS -->
 
 ---
+
+## 📊 My Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Najimandroid&rank_icon=github&theme=github_dark&show_icons=true&include_all_commits=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Najimandroid&rank_icon=github&theme=default&show_icons=true&include_all_commits=true&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Najimandroid&rank_icon=github&show_icons=true&include_all_commits=true&hide_title=true" />
+</picture>
 
 <picture>
   <source
@@ -45,17 +114,4 @@ I'm curious and always trying out new ideas 🎮
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najimandroid&layout=compact" />
 </picture>
 
-<!--
-**Najimandroid/Najimandroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:D65A31,100:F2994A&height=100&section=footer)
