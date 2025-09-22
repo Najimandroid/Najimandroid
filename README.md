@@ -9,7 +9,7 @@ You can even try some of them out on my itch.io page or see videos on my YouTube
 
 ## 📣 My Links
 
-### 🕹️ [itch.io](https://najimandroid.itch.io/) • 🎥 [YouTube](https://www.youtube.com/@najimandroid) • 💼 [LinkedIn](https://www.linkedin.com/in/najim-bakkali-4350b0293/)
+### 🕹️ [itch.io](https://najimandroid.itch.io/) • 🎥 [YouTube](https://www.youtube.com/@najimandroid) • 💼 [LinkedIn](https://www.linkedin.com/in/najimbakkali/)
 
 #
 
