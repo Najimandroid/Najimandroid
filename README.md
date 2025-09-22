@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D65A31,100:F2994A&height=250&section=header&text=Najimandroid&fontSize=60&fontAlignY=40&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:3848F1,100:15307B&height=250&section=header&text=Najimandroid&fontSize=60&fontAlignY=40&fontColor=ffffff&animation=fadeIn)
 
 Hi! I'm Najim 👋  
 I'm a computer science student passionate about game development.  
@@ -104,4 +104,4 @@ You can even try some of them out on my itch.io page or see videos on my YouTube
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Najimandroid&layout=compact&theme=github_dark&cache_seconds=86400)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:D65A31,100:F2994A&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:3848F1,100:15307B&height=100&section=footer)
