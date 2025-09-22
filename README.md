@@ -102,16 +102,6 @@ You can even try some of them out on my itch.io page or see videos on my YouTube
   <img src="https://github-readme-stats.vercel.app/api?username=Najimandroid&rank_icon=github&show_icons=true&include_all_commits=true&hide_title=true" />
 </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Najimandroid&theme=github_dark&layout=compact"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Najimandroid&theme=default&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najimandroid&layout=compact" />
-</picture>
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Najimandroid&layout=compact&theme=github_dark&cache_seconds=86400)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:D65A31,100:F2994A&height=100&section=footer)
